@@ -1,0 +1,8 @@
+django
+tensorflow
+pillow
+numpy
+requests
+gunicorn
+google-generativeai
+python-dotenv
